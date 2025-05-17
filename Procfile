@@ -1,1 +1,1 @@
-worker: python bot/main.py
+command: PYTHONPATH=. python bot/main.py
